@@ -1,7 +1,7 @@
 # Compatibility Predictor: A coding challenge
-Ensure that your machine has [Node.js](https://nodejs.org/en/download/) installed prior to the following instructions. Clone down the repository and run the command `npm install`. Once all the dependencies have been installed, you may load the **input.js** file with your appropriate JSON code. Please see the sample input/output code below for reference.
+Ensure that your machine has [Node.js](https://nodejs.org/en/download/) installed prior to the following instructions. Clone down the repository and run the command `npm install`. Once all the dependencies have been installed, you may execute the command `npm test` in your terminal. *Voila!* The resulting output will then be printed (based off of the sample input data below).
 
-To run, execute the command `npm test` in your terminal. The resulting output will then be printed. *Voila!* Each of your applicants now have a rating that you may use in your hiring process.
+Attribute weightings have been calculated in a Decision Making Matrix (DMM) linked [here](https://docs.google.com/spreadsheets/d/1PhgRtenUvESLeiJEHZSPalS9fsJnHyIv7a9z8TLHAQo/edit?usp=sharing).
 
 ## Sample Code
 **Input:**
