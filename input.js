@@ -1,5 +1,5 @@
 exports.input = function() {
-  const peopleData = {
+  const data = {
     team: [
       {
         name: "Eddie",
@@ -60,5 +60,5 @@ exports.input = function() {
     ]
   };
 
-  return peopleData;
+  return data;
 };

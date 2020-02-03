@@ -2,12 +2,12 @@
   "name": "compatibility-predictor",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "compatibilityPredictor.js",
   "scripts": {
     "test": "mocha --bail --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Obiano",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
